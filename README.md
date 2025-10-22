@@ -2,12 +2,12 @@ A simple RESTful API built using Node.js and Express.js that performs basic CRUD
 
 
 🚀 Features:-
-  -Get all books from the collection
-  -Get a single book by its ID
-  -Add (POST) a new book
-  -Delete a book by ID
-  -Handles missing or invalid data gracefully
-  -Uses Express middleware to parse JSON inputs
+  Get all books from the collection
+  ,Get a single book by its ID
+  ,Add (POST) a new book
+  ,Delete a book by ID
+  ,Handles missing or invalid data gracefully
+  ,Uses Express middleware to parse JSON inputs
 
 
   🛠️ Tech Stack:-
